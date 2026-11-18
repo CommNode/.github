@@ -2,45 +2,45 @@
 
 # 🌐 CommNode
 
-### **Connessioni semplici. Comunicazione in tempo reale.**
+### **Simple connections. Real-time communication.**
 
-Un progetto open source per costruire comunicazioni client-server modulari con Python e socket TCP/IP.
+An open source project to build modular client-server communications with Python and TCP/IP sockets.
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Protocol](https://img.shields.io/badge/Protocol-TCP%2FIP-2563EB?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/CommNode/CommNode)
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/CommNode/CommNode/blob/master/LICENSE)
 
-[🚀 Esplora il progetto](https://github.com/CommNode/CommNode) &nbsp;·&nbsp; [🐛 Segnala un problema](https://github.com/CommNode/CommNode/issues) &nbsp;·&nbsp; [🤝 Contribuisci](https://github.com/CommNode/CommNode/blob/master/CONTRIBUTING.md)
+[🚀 Explore the project](https://github.com/CommNode/CommNode) &nbsp;·&nbsp; [🐛 Report a problem](https://github.com/CommNode/CommNode/issues) &nbsp;·&nbsp; [🤝 Contribute](https://github.com/CommNode/CommNode/blob/master/CONTRIBUTING.md)
 
 </div>
 
 ---
 
-## 👋 Chi siamo
+## 👋 About us
 
-**CommNode** sviluppa strumenti software per facilitare la comunicazione tra applicazioni attraverso la rete. Il progetto pubblico dell'organizzazione è una utility client-server in Python pensata per lo scambio di messaggi in tempo reale e la gestione concorrente delle connessioni.
+**CommNode** develops software tools to facilitate communication between applications across the network. The organization's public project is a Python client-server utility designed for real-time message passing and concurrent connection management.
 
-Crediamo in un approccio **modulare, leggibile e accessibile**: componenti distinti per client e server, un punto di partenza pratico per sperimentare e realizzare applicazioni di rete.
+We believe in a **modular, readable, and accessible** approach: distinct components for clients and servers, a practical starting point for experimenting with and building network applications.
 
-## ✨ In evidenza — CommNode
+## ✨ Featured — CommNode
 
-<a href="https://github.com/CommNode/CommNode"><strong>CommNode →</strong></a> è il repository principale dell'organizzazione.
+<a href="https://github.com/CommNode/CommNode"><strong>CommNode →</strong></a> is the main repository of the organization.
 
-| 🧩 Tecnologia | ⚙️ Architettura | 📄 Licenza |
+| 🧩 Technology | ⚙️ Architecture | 📄 License |
 |:---|:---|:---|
 | Python 3 · socket TCP/IP | Client-server · thread | MIT |
 
-### 🚀 Cosa offre
+### 🚀 What it offers
 
-- **Connessioni concorrenti** — il server è progettato per gestire più client.
-- **Messaggistica** — scambio di messaggi e funzionalità di broadcast.
-- **Struttura modulare** — componenti separati per client e server.
-- **Rilevamento IP** — utilità per individuare l'indirizzo IP del sistema.
-- **Portabilità** — progetto concepito per l'utilizzo multipiattaforma.
+- **Concurrent Connections** — The server is designed to handle multiple clients.
+- **Messaging** — message exchange and broadcast features.
+- **Modular structure** — separate components for client and server.
+- **IP Detection** — utility for locating the system's IP address.
+- **Portability** — project designed for cross-platform use.
 
-## ⚡ Avvio rapido
+## ⚡ Quick start
 
-Clona il repository e avvia server e client in terminali distinti:
+Clone the repository and start the server and client in separate terminals:
 
 ```bash
 git clone https://github.com/CommNode/CommNode.git
@@ -53,33 +53,33 @@ python Server/Server.py
 python Client/Client.py
 ```
 
-La porta predefinita è `5000` ed è configurabile. Consulta il [README del progetto](https://github.com/CommNode/CommNode#readme) per i dettagli e le istruzioni aggiornate.
+The default port is '5000' and it is configurable. Check the [README](https://github.com/CommNode/CommNode#readme) for details and updated instructions.
 
-## 🧑‍💻 Partecipa
+## 🧑‍💻 Takes part
 
-Ogni contributo che migliora codice, documentazione, test o affidabilità è benvenuto.
+Any contributions that improve code, documentation, testing, or reliability are welcome.
 
-1. Leggi le [linee guida per contribuire](https://github.com/CommNode/CommNode/blob/master/CONTRIBUTING.md).
-2. Per bug e proposte, [apri una issue](https://github.com/CommNode/CommNode/issues).
-3. Invia una pull request con una descrizione chiara e i test eseguiti.
+1. Read the [guidelines to contribute](https://github.com/CommNode/CommNode/blob/master/CONTRIBUTING.md).
+2. For bugs and proposals, [open an issue](https://github.com/CommNode/CommNode/issues).
+3. Send a pull request with a clear description and the tests performed.
 
-Ti invitiamo inoltre a consultare il [Codice di condotta](https://github.com/CommNode/CommNode/blob/master/CODE_OF_CONDUCT.md) e le [indicazioni di sicurezza](https://github.com/CommNode/CommNode/blob/master/SECURITY.md).
+We also invite you to consult the [Code of Conduct](https://github.com/CommNode/CommNode/blob/master/CODE_OF_CONDUCT.md) and the [safety indications](https://github.com/CommNode/CommNode/blob/master/SECURITY.md).
 
-## 🛡️ Sicurezza
+## 🛡️ Security
 
-Hai individuato una vulnerabilità? Segui le istruzioni riportate nella [policy di sicurezza](https://github.com/CommNode/CommNode/blob/master/SECURITY.md).
+Have you identified a vulnerability? Follow the instructions in the [security policy](https://github.com/CommNode/CommNode/blob/master/SECURITY.md).
 
 ## 📜 Licenza
 
-CommNode è distribuito con licenza [MIT](https://github.com/CommNode/CommNode/blob/master/LICENSE).
+CommNode is distributed under the license [MIT](https://github.com/CommNode/CommNode/blob/master/LICENSE).
 
 ---
 
 <div align="center">
 
 **🌐 CommNode**  
-*Strumenti essenziali per connessioni più semplici.*
+*Essential tools for easier connections.*
 
-<sub>Realizzato con Python · Aperto alla community</sub>
+<sub>Built with Python · Open to the community</sub>
 
 </div>
